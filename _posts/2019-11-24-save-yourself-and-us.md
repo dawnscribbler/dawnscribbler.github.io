@@ -2,8 +2,8 @@
 layout: post
 title: Save yourself and us!
 comments: false
-description: "Jesus and the repentant thief."
-keywords: "King of the Universe, dying on the cross, forgiving sins"
+description: "Jesus, the King of the Universe."
+keywords: "the repentant thief, dying on the cross, forgiving sins"
 ---
 
 [Our Lord Jesus Christ, King of the Universe (Solemnity) ](https://www.ewtn.com/catholicism/daily-readings/2019-11-24)
