@@ -15,10 +15,10 @@ Colossians 1:12-20
 Luke 23:35-43
 ```
 
-C: Who is the King of glory?\
-K: You, Christ, you are the King of glory. But...not on the cross. There, you look rather unfortunate. \
-C: I'm not coming down from here. This is the will of my Father. \
-K: Well, fine. You stay there looking pathetic. I'm going to stay here looking glamorous. Someone has to look good for the camera.\
+C: Who is the King of glory?<br/>
+K: You, Christ, you are the King of glory. But...not on the cross. There, you look rather unfortunate. <br/>
+C: I'm not coming down from here. This is the will of my Father. <br/>
+K: Well, fine. You stay there looking pathetic. I'm going to stay here looking glamorous. Someone has to look good for the camera.
 
 
 When Jesus performed miracles, He was recognizable as the Son of David. When He cast out demons, He was recognized as the Holy One of God. When He preached, He was recognized as the Son of Man. When He rode on the donkey, He was recognised as King of Israel. But when He hung on the Cross, the only deduction that could be made was that He was unfortunate.
@@ -33,7 +33,7 @@ If we acclaim Christ as our King, that means we accept Jesus as our model of liv
 
 Jesus did not come down from the Cross; He stayed there and died. And then, He arose and received His glory; He received a name which is above all other names; a name at which every knee must bow in heaven, on earth, and under the earth to the glory of God. </p>
 
-T: Jesus, remember me when you come in your kingly power\
+T: Jesus, remember me when you come in your kingly power<br/>
 J: Truly, I say to you, today you will be with me in Paradise.
 
 
