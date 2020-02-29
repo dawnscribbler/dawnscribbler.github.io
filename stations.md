@@ -1,5 +1,5 @@
 ---
-layout: layout_tab
+layout: default
 title: Stations
 permalink: /stations/
 ---
