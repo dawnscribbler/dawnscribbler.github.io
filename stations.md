@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Stations
 permalink: /about/
 output: 
   flexdashboard::flex_dashboard:
