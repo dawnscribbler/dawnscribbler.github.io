@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stations
-permalink: /about/
+permalink: /stations/
 output: 
   flexdashboard::flex_dashboard:
     orientation: rows
