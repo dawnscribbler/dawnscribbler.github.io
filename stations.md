@@ -24,8 +24,8 @@ Close to Jesus to the last.
 <br> <br>
 
 ## FIRST STATION ##
-
-![JESUS IS CONDEMNED TO DEATH](assets/images/station01.jpg)  
+JESUS IS CONDEMNED TO DEATH
+![alt text](assets/images/station01.jpg)  
 
 V: 	We adore you O Christ and we bless you  
 **R:	Because by your holy cross you have redeemed the world.**  
