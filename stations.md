@@ -1,62 +1,28 @@
 ---
+layout: default
 title: Stations
 permalink: /stations/
-output: 
-  flexdashboard::flex_dashboard:
-    orientation: rows
-    vertical_layout: scroll
 ---
 
-Row 
--------------------------------------
-    
-### Chart 1
-    
-```{r}
-```
-   
-Row {.tabset .tabset-fade}
--------------------------------------
-   
-### Chart 2
+ <!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'London')">London</button>
+  <button class="tablinks" onclick="openCity(event, 'Paris')">Paris</button>
+  <button class="tablinks" onclick="openCity(event, 'Tokyo')">Tokyo</button>
+</div>
 
-```{r}
-```   
- 
-### Chart 3
-    
-```{r}
-```
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+  <h3>London</h3>
+  <p>London is the capital city of England.</p>
+</div>
 
-### Chart 4
-    
-```{r}
-```
+<div id="Paris" class="tabcontent">
+  <h3>Paris</h3>
+  <p>Paris is the capital of France.</p>
+</div>
 
-
-
-Row 
--------------------------------------
-    
-### Chart 1
-    
-```{r}
-```
-   
-Row {.tabset .tabset-fade}
--------------------------------------
-   
-### Chart 2
-
-```{r}
-```   
- 
-### Chart 3
-    
-```{r}
-```
-
-### Chart 4
-    
-```{r}
-```
+<div id="Tokyo" class="tabcontent">
+  <h3>Tokyo</h3>
+  <p>Tokyo is the capital of Japan.</p>
+</div> 
