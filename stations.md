@@ -17,9 +17,9 @@ V. 	Have mercy on us, O Lord!
 **R. 	Have mercy on us!**
 
 **Hymn:**  
-At the cross her station keeping  
+*At the cross her station keeping  
 Stood the mournful mother weeping.  
-Close to Jesus to the last.
+Close to Jesus to the last.*
 
 <br> <br>
 
@@ -48,9 +48,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**  
-Through her heart his sorrow sharing,  
+*Through her heart his sorrow sharing,  
 All his bitter anguish bearing,  
-Now, at length, the sword has passed.
+Now, at length, the sword has passed.*
 
 <br> <br>
 
@@ -80,9 +80,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-O how sad and sore distressed  
+*O how sad and sore distressed  
 was that Mother; highly blessed,      
-Of the Sole-Begotten One.
+Of the Sole-Begotten One.*
 
 <br> <br>
 
@@ -111,13 +111,13 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Christ above in torment hangs;  
+*Christ above in torment hangs;  
 She beneath beholds the pangs  
-Of her dying glorious Son  
+Of her dying glorious Son* 
 
 <br> <br>
 
-### FOURTH STATION ###
+## FOURTH STATION ##
 
 JESUS IS MET BY HIS BLESSED MOTHER   
 ![alt text](assets/images/station04.jpg)   
@@ -143,13 +143,13 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Is there one who would not weep,  
+*Is there one who would not weep,  
 Whelmed in miseries so deep,  
-Christ’s dear mother to behold?
+Christ’s dear mother to behold?*
 
 
 <br> <br>
-### FIFTH STATION ###
+## FIFTH STATION ##
 
 THE CROSS IS LAID UPON SIMON OF CYRENE   
 ![alt text](assets/images/station05.jpg)   
@@ -175,14 +175,14 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**  
-Can the human heart refrain,  
+*Can the human heart refrain,  
 From partaking in her pain,  
-In that mother’s pain untold?
+In that mother’s pain untold?*
 
 
+<br> <br>
 
-
-### SIXTH STATION ###
+## SIXTH STATION ##
 
 VERONICA WIPES THE FACE OF JESUS  
 ![alt text](assets/images/station06.jpg)   
@@ -208,9 +208,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Bruised, derided, cursed, defiled,  
+*Bruised, derided, cursed, defiled,  
 She beheld her tender child,  
-All with bloody scourges rent
+All with bloody scourges rent*
 
 <br> <br>
 
@@ -240,9 +240,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-For the sins of his own nation  
+*For the sins of his own nation  
 Saw him hang in desolation,  
-Till his spirit forth he sent.  
+Till his spirit forth he sent.* 
 
 <br> <br>
 
@@ -271,9 +271,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-O thou mother! Fount of love!  
+*O thou mother! Fount of love!  
 Touch my spirit from above,  
-Make my heart with thine accord.  
+Make my heart with thine accord.*  
 
 <br> <br>
 
@@ -302,9 +302,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Make me feel as thou hast felt;  
+*Make me feel as thou hast felt;  
 Make my heart to glow and melt  
-With the love of Christ my Lord.  
+With the love of Christ my Lord.*  
 
 <br> <br>
 
@@ -333,9 +333,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Holy Mother, pierce me through;  
+*Holy Mother, pierce me through;  
 In my heart each wound renew  
-Of my Saviour crucified.  
+Of my Saviour crucified.*  
 
 <br> <br>
 
@@ -364,9 +364,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Let me shore with thee his pain;  
+*Let me shore with thee his pain;  
 Who for all my sins was slain,  
-Who for me in torments died.  
+Who for me in torments died.*
 
 <br> <br>
 
@@ -396,9 +396,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-Let me mingle tears with thee,  
+*Let me mingle tears with thee,  
 Mourning him who mourned for me.  
-All the days that I may live. 
+All the days that I may live.* 
 
 <br> <br>
  
@@ -428,9 +428,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-By the cross with thee to stay,  
+*By the cross with thee to stay,  
 There with thee to weep and pray,  
-Is all I ask of thee to give.  
+Is all I ask of thee to give.*
 
 <br> <br>
 
@@ -459,9 +459,9 @@ V. 	Have mercy on us, O Lord!
 <br>
 
 **Hymn:**   
-While my body here decays.  
+*While my body here decays.  
 May my soul thy goodness praise,  
-Safe in paradise with thee. Amen.  
+Safe in paradise with thee. Amen.*  
 
 <br> <br>
 
@@ -473,20 +473,3 @@ Safe in paradise with thee. Amen.
 Almighty and eternal God, you have restored us to life by the triumphant death and resurrection of Christ. Continue this healing work within us. May we who participate in this mystery never cease to serve You. This we ask through Christ our Lord.
 Amen.
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
