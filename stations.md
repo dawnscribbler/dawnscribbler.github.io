@@ -310,7 +310,7 @@ With the love of Christ my Lord.
 
 ## TENTH STATION ##
 
-JESUS IS STRIPPED OF HIS GARMENTS
+JESUS IS STRIPPED OF HIS GARMENTS  
 ![alt text](assets/images/station10.jpg)   
 
 V: 	We adore you O Christ and we bless you  
@@ -473,3 +473,20 @@ Safe in paradise with thee. Amen.
 Almighty and eternal God, you have restored us to life by the triumphant death and resurrection of Christ. Continue this healing work within us. May we who participate in this mystery never cease to serve You. This we ask through Christ our Lord.
 Amen.
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
