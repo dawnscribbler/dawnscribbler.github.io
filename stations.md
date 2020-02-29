@@ -29,6 +29,11 @@ Row {.tabset .tabset-fade}
 ```{r}
 ```
 
+### Chart 4
+    
+```{r}
+```
+
 
 
 Row 
@@ -48,6 +53,11 @@ Row {.tabset .tabset-fade}
 ```   
  
 ### Chart 3
+    
+```{r}
+```
+
+### Chart 4
     
 ```{r}
 ```
