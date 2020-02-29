@@ -159,13 +159,13 @@ V: 	We adore you O Christ and we bless you
 
 
 
-From the Gospel of St. Mark
+### From the Gospel of St. Mark ###
 They enlisted a passer-by, Simon of Cyrene, father of Alexander and Rufus, who was coming in from the country, to carry his cross. (Mk. 15: 21)
 
-Words of Our Lord
+### Words of Our Lord ###
 “The disciple is not superior to his teacher, nor the slave to his master. It is enough for the disciple that he should grow to be like his teacher, and the slave like his master. If they have called the master of the house Beelzebub, what will they not say of his household? Do not be afraid of those who kill the body but cannot kill the soul: fear Him rather who can destroy both body and soul in hell.” (Mt. 10: 24 - 25; 28)
 
-Let us pray
+### Let us pray ###
 Father, by the blood of your own Son, you have set all men free and saved us from death. Continue your work of love within us, that by constantly celebrating the mystery of our salvation, we may reach the eternal life it promises. We ask this through Christ our Lord. Amen.
 
 
@@ -473,3 +473,20 @@ Safe in paradise with thee. Amen.*
 Almighty and eternal God, you have restored us to life by the triumphant death and resurrection of Christ. Continue this healing work within us. May we who participate in this mystery never cease to serve You. This we ask through Christ our Lord.
 Amen.
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
