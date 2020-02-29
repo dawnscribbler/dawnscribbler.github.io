@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Stations
 permalink: /stations/
 output: 
