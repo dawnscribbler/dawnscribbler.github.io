@@ -11,7 +11,7 @@ V: 	We adore you O Christ and we bless you
 
 ### Let us pray ###
 
-God our Father, in obedience to you, your only Son accepted death on the cross for the salvation of mankind. We acknowledge the mystery of the cross on earth. May we receive the gift of redemption in heaven. We ask this through Christ our Lord. Amen.
+God our Father, in obedience to You, Your only Son accepted death on the cross for the salvation of mankind. We acknowledge the mystery of the cross on earth. May we receive the gift of redemption in heaven. We ask this through Christ our Lord. Amen.
 
 V. 	Have mercy on us, O Lord!  
 **R. 	Have mercy on us!**
@@ -231,7 +231,7 @@ And yet ours were the suffering He bore, ours the sorrows He carried. But we, we
 “Be like men who are waiting for their master to return from the wedding feast, ready to open the door as soon as He comes and knocks. Happy those servants whom the master finds awake when He comes. You too must stand ready, because the Son of Man is coming at an hour you do not expect.” (Lk. 12: 36 -37; 40)
 
 ### Let us pray ###
-Almighty God, grant that we who are constantly betrayed by our own weakness, may draw the breath of new life from the passion and death of your only-begotten Son. We ask this through Christ our Lord. Amen.
+Almighty God, grant that we who are constantly betrayed by our own weakness, may draw the breath of new life from the passion and death of your only begotten Son. We ask this through Christ our Lord. Amen.
 
 
 V. 	Have mercy on us, O Lord!  
@@ -263,7 +263,7 @@ Large numbers of people followed him, and of women too, who mourned and lamented
 “Happy those who mourn: they shall be comforted. Happy those who are persecuted in the cause of right; theirs is the kingdom of heaven. Happy are you when people abuse you and persecute you and speak all kinds of calumny against you on my account. Rejoice and be glad, for your reward will be great in heaven” (Mt. 5:4, 10-11)
 
 ### Let us pray ###
-Father, help us to be like Christ your Son, who loved the world and died for our salvation. Inspire us by his love, guide us by his example. We ask this through the same Christ our Lord. Amen
+Father, help us to be like Christ your Son, who loved the world and died for our salvation. Inspire us by His love, guide us by His example. We ask this through the same Christ our Lord. Amen
 
 V. 	Have mercy on us, O Lord!  
 **R. 	Have mercy on us!**
@@ -470,7 +470,7 @@ Safe in paradise with thee. Amen.*
 
 ### Let us pray ###
 
-Almighty and eternal God, you have restored us to life by the triumphant death and resurrection of Christ. Continue this healing work within us. May we who participate in this mystery never cease to serve You. This we ask through Christ our Lord.
+Almighty and eternal God, You have restored us to life by the triumphant death and resurrection of Christ. Continue this healing work within us. May we who participate in this mystery never cease to serve You. This we ask through Christ our Lord.
 Amen.
  
 
