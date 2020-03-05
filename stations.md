@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A short Way of the Cross +*
+title: A short Way of the Cross
 permalink: /stations/
 ---
 
