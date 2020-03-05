@@ -1,8 +1,14 @@
 ---
 layout: page
-title: A short Way of the Cross used by the Franciscan Fathers on their missions
+title: A short Way of the Cross +*
 permalink: /stations/
 ---
+
+## OPENING PRAYER ##
+
+God our Father, in obedience to You, Your only Son accepted death on the cross for the salvation of mankind. We acknowledge the mystery of the cross on earth. May we receive the gift of redemption in heaven. We ask this through Christ our Lord. Amen.
+
+<br> <br>
 
 ## FIRST STATION ##
 
@@ -124,19 +130,12 @@ When I receive Thee into my heart in Holy Communion, O Jesus, make it a fit abid
 
 ## CLOSING PRAYER ##
 
-### Let us pray ###
-
 Almighty and eternal God, You have restored us to life by the triumphant death and resurrection of Christ. Continue this healing work within us. May we who participate in this mystery never cease to serve You. This we ask through Christ our Lord.
 Amen.
  
-
-
-
-
-
-
-
-
+<br><br><br><br><br><br>
++ used by the Franciscan Fathers on their missions
+* opening and closing prayer added 
 
 
 
