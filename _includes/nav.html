@@ -1,17 +1,8 @@
 <div class="container">
-    <div class="row">
-      <div class="col col-12">
-        <div class="header-box">
+    
           <!-- begin logo -->
-          <div class="logo">
-            <a class="logo__link" href="{{ site.baseurl }}/">
-            {%if site.logo and site.logo != "" %}
-              <img class="logo__image" src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
-            {% else %}
-              {{ site.title }}
-            {% endif %}
-            </a>
-          </div>
+          <h1 class="logo"><a class="navbar-brand" href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>    
+    
           <!-- end logo -->
 
           <!-- begin main-nav -->
@@ -39,8 +30,5 @@
           <!-- end main-nav -->
 
           <div class="header__overlay"></div>
-        </div>
-      </div>
-      
-    </div>
+        
   </div>
