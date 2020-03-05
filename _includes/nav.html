@@ -1,7 +1,9 @@
-<h1 class="logo"><a class="navbar-brand" href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>  
+<nav class="nav">
+  <h1 class="logo"><a class="navbar-brand" href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>  
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
     <li><a href="{{ site.url }}">Home</a></li>
     <li><a href="{{ '/stations' | prepend: site.baseurl | prepend: site.url }}">Stations</a></li>
   </ul>
+</nav>
