@@ -100,7 +100,7 @@ JESUS IS NAILED TO THE CROSS
 JESUS DIES ON THE CROSS   
 ![alt text](assets/images/station12.jpg)   
 
-Thou art dying, my Jesus, but Thy Sacred Heart still throbs with love for Thy sinful children.
+[Thou art dying, my Jesus, but Thy Sacred Heart still throbs with love for Thy sinful children](#thirteenth-station)
 <br> <br>
  
  
@@ -118,7 +118,7 @@ JESUS IS TAKEN DOWN FROM THE CROSS
 JESUS IS PLACED IN THE SEPULCHRE   
 ![alt text](assets/images/station14.jpg)   
 
-When I receive Thee into my heart in Holy Communion, O Jesus, make it a fit abiding place for Thy adorable Body.  Amen.
+[When I receive Thee into my heart in Holy Communion, O Jesus, make it a fit abiding place for Thy adorable Body.  Amen.](#first-station)
 <br> <br>
 
 
