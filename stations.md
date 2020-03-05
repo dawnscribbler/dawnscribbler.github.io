@@ -124,8 +124,6 @@ When I receive Thee into my heart in Holy Communion, O Jesus, make it a fit abid
 
 
 <br><br><br><br><br><br>
-+ used by the Franciscan Fathers on their missions
-
 
 
 
