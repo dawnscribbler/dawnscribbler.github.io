@@ -59,10 +59,10 @@ VERONICA WIPES THE FACE OF JESUS
 JESUS FALLS THE SECOND TIME  
 ![alt text](assets/images/station07.jpg)   
 
-[By Thy second fall, preserve me, dear Lord, from relapse into sin](#eigth-station)
+[By Thy second fall, preserve me, dear Lord, from relapse into sin](#eight-station)
 <br> <br>
 
-## [EIGHT STATION](#eigth-station) ##
+## [EIGHT STATION](#eight-station) ##
 
 THE WOMEN OF JERUSALEM MOURN FOR OUR LORD   
 ![alt text](assets/images/station08.jpg)   
