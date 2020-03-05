@@ -9,10 +9,10 @@ permalink: /stations/
 JESUS IS CONDEMNED TO DEATH  
 ![alt text](assets/images/station01.jpg)   
 
-O Jesus! so meek and uncomplaining, teach me resignation in trials.
+[O Jesus! so meek and uncomplaining, teach me resignation in trials](#second-station).
 <br> <br>
 
-## SECOND STATION ##
+## [SECOND STATION](#second-station) ##
 
 JESUS RECEIVES THE CROSS   
 ![alt text](assets/images/station02.jpg)   
