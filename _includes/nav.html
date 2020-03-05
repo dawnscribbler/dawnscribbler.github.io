@@ -1,31 +1,27 @@
- <!-- Logo and title -->
-	<div class="branding">
-        	<h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left 			}}<span>{{ site.title_right }}</span></a></h1>
-	</div>
+        <nav class="main-nav">
 
-    <!-- Toggle menu -->
-    <nav class="clear">
-    <a aria-label="pull" id="pull" class="toggle" href="#">
-    <i class="fa fa-bars fa-lg"></i>
-    </a>
+          <div class="main-nav__box">
+            
+	   <div class="nav__title">Menu</div>
 
-    <!-- Menu -->
-    <ul class="hide">
-	    <li><a href="{{ site.url }}">Home</a></li>
-        {% assign name_page = "" %}
-		
-        {% for page in site.pages %}
-            {% unless page.title == null or page.hide or name_page contains page.title %}
-            <li class="separator"> | </li>
-            <li>
-                <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
-                    {% if page.icon %} <i class="fa {{ page.icon }}" aria-hidden="true"></i>
-                    {% else %} {{ page.title }} {% endif%}
-                </a>
-            </li>
-            {% endunless %}
-            {% assign name_page = page.title | append: name_page %}
-        {% endfor %}
-    </ul>
+            <ul class="nav__list list-reset">
+              <li class="nav__item">
+                <a href="{{site.baseurl}}/" class="nav__link">Home</a>
+              </li>
+              {% for page in site.pages %}
+                {% unless page.name == 'tags.html' or page.name == '404.html' %}
+              {% if page.title %}
+              <li class="nav__item">
+                <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+              </li>
+              {% endif %}
+                {% endunless %}
+              {% endfor %}
+            </ul>
 
-	</nav>
+          </div>
+        </nav>
+
+        
+
+        
