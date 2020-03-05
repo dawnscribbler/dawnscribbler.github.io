@@ -28,7 +28,7 @@ JESUS FALLS THE FIRST TIME UNDER HIS CROSS
 [O Jesus! by this first fall, never let me fall into mortal sin](#fourth-station)
 <br> <br>
 
-## [FOURTH STATION](#fourth-station)##
+## [FOURTH STATION](#fourth-station) ##
 
 JESUS IS MET BY HIS BLESSED MOTHER   
 ![alt text](assets/images/station04.jpg)   
