@@ -18,7 +18,7 @@ We offer unto Thee, O Lord, the chalice of salvation, beseeching Thy clemency, t
 
 “For this is the chalice of my Blood of the new and eternal testament, the mystery of faith; which shall be shed for you and for many unto the remission of sins.”  
 
-![alt text](assets/images/BodyBlood.jpg)  
+![alt text](assets/images/BodyNBlood.jpg)  
 
 ## Domine, Non Sum Dignus ##
 Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.  
