@@ -4,7 +4,7 @@ title: Stations of the Cross
 permalink: /stations/
 ---
 
-## FIRST STATION ##
+## [FIRST STATION](#first-station) ##
 
 JESUS IS CONDEMNED TO DEATH  
 ![alt text](assets/images/station01.jpg)   
