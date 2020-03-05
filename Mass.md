@@ -27,4 +27,4 @@ Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, 
 The Body of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.  
 
 The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.  
-![alt text](assets/images/lambofGod.jpg) 
+![alt text](assets/images/lambOfGod.jpg) 
