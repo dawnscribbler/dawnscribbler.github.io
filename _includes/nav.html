@@ -1,20 +1,46 @@
-<nav class="navbar navbar-expand-md navbar-light py-xs-2 py-md-4">
-  <div class="container">
-    
-    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>  
-    
-    <button class="navbar-toggler float-right" data-toggle="collapse" data-target="#navbarNav">
-      <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span> 
-    </button>
-    
-    <div class="collapse navbar-collapse" id="navbarNav">
-     <ul class="navbar">
-      <li><a href="{{ site.url }}">Home</a></li>
-      <li><a href="{{ '/stations' | prepend: site.baseurl | prepend: site.url }}">Stations</a></li>  
-    </ul>
+<div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="header-box">
+          <!-- begin logo -->
+          <div class="logo">
+            <a class="logo__link" href="{{ site.baseurl }}/">
+            {%if site.logo and site.logo != "" %}
+              <img class="logo__image" src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
+            {% else %}
+              {{ site.title }}
+            {% endif %}
+            </a>
+          </div>
+          <!-- end logo -->
+
+          <!-- begin main-nav -->
+          <nav class="main-nav">
+
+            <div class="main-nav__box">
+              <i class="nav__close ion ion-md-close"></i>
+              <ul class="nav__list list-reset">
+                <li class="nav__item">
+                  <a href="{{ site.baseurl }}/" class="nav__link">Home</a>
+                </li>
+                {% for page in site.pages %}
+                  {% unless page.name == 'tags.html' or page.name == '404.html' %}
+                {% if page.title %}
+                <li class="nav__item">
+                  <a href="{{ page.url | prepend: site.baseurl }}" class="nav__link">{{ page.title }}</a>
+                </li>
+                {% endif %}
+                  {% endunless %}
+                {% endfor %}
+              </ul>
+            </div>
+
+          </nav>
+          <!-- end main-nav -->
+
+          <div class="header__overlay"></div>
+        </div>
+      </div>
+      
     </div>
-  
   </div>
-</nav>
