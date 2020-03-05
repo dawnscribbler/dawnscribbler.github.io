@@ -42,8 +42,6 @@ O Jesus! may no human tie, however dear, keep me from following the road of the 
 THE CROSS IS LAID UPON SIMON OF CYRENE   
 ![alt text](assets/images/station05.jpg)   
 
-Simon the Cyrenean Helps Jesus Carry His Cross
-
 Simon unwillingly assisted Thee; may I with patience suffer all for Thee.
 <br> <br>
 
