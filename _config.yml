@@ -13,6 +13,12 @@ comments_enabled  : false # if enabled (set to true), please provide your disqus
 disqus_shortname  : ""
 postshare_enabled : false
 
+# Hero Section
+hero: true # To enable the section hero, use the value true. To turn off use the value false.
+hero-title: Agnus Dei, qui tollis peccata mundi. # Add your hero title
+hero-subtitle:  Miserere nobis! # Add your hero subtitle
+hero-image:  assets/images/Zurbaran-Agnus-Dei.jpg # Add background image in section hero
+
 # Build settings
 permalink   : /:year/:title/
 markdown    : kramdown
