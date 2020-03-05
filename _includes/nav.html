@@ -4,18 +4,16 @@
     <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}">{{ site.title_left }}<span>{{ site.title_right }}</span></a></h1>  
     
     <button class="navbar-toggler float-right" data-toggle="collapse" data-target="#navbarNav">
-      <span class="navbar-toggler-icon"></span>
+      <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
     </button>
     
     <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a href="/" class="nav-link">Home</a>
-        </li>
-        <li class="nav-item">
-          <a href="/stations/" class="nav-link">Stations</a>
-        </li>     
-      </ul>
+     <ul class="navbar">
+      <li><a href="{{ site.url }}">Home</a></li>
+      <li><a href="{{ '/stations' | prepend: site.baseurl | prepend: site.url }}">Stations</a></li>  
+    </ul>
     </div>
   
   </div>
