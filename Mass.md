@@ -13,22 +13,27 @@ Accept, O holy Father, almighty and eternal God, this unspotted host, which I, T
 We offer unto Thee, O Lord, the chalice of salvation, beseeching Thy clemency, that it may ascend before Thy divine Majesty, as a sweet savor, for our salvation, and for that of the whole world. Amen.
 
 ## The Consecration ##
-“For this is my Body.”
+“For this is my Body.”  
+
 ![alt text](assets/images/host.jpg)   
 
-“For this is the chalice of my Blood of the new and eternal testament, the mystery of faith; which shall be shed for you and for many unto the remission of sins.”
+“For this is the chalice of my Blood of the new and eternal testament, the mystery of faith; which shall be shed for you and for many unto the remission of sins.”  
+
 ![alt text](assets/images/chalice.jpg)   
 
 ## Domine, Non Sum Dignus ##
-Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.
+Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.  
+
 ![alt text](assets/images/LambofGod.jpg)   
 
 ## The Communion Prayers ##
-The Body of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.
+The Body of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.  
+
 ![alt text](assets/images/receiving.jpg)   
 
-The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.
+The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.  
+
 ![alt text](assets/images/receiving_c.jpg)   
 
-<br><br><br>
-![alt text](assets/images/ 	IMG_20190422_195345_600.jpg)  
+<br><br><br>  
+![alt text](assets/images/IMG_20190422_195345_600.jpg)  
