@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yet even now..."
+title: "Perhaps he will ...leave behind him a blessing"
 comments: false
 description: "Feb 26th 2020 Mass Reading Reflection"
 keywords: "fasting, healing, Lent"
