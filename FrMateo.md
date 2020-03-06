@@ -13,3 +13,6 @@ I hope to die saying Mass – between two consecrations… Learn these prayers b
 I remember preaching in a big community in California. The Mother Superior said to me one day, “Father, I want to thank you. Yesterday after your conference about Holy Mass I went to the infirmary to see a poor sister who suffers terribly and who cannot sleep at all, especially during the night. She was smiling. Mother, I have learned the secret of how to pass the night – the Mass of St. John. Thank Father for me for having told us about it.”
 
 *Jesus, King of Love*
+
+<br><br>
+[Go to Mass](/mass)
