@@ -14,5 +14,4 @@ I remember preaching in a big community in California. The Mother Superior said 
 
 *Jesus, King of Love*
 
-<br><br>
 [Go to Mass](/mass)
