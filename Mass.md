@@ -9,10 +9,12 @@ permalink: /mass/
 ## Offering of the Host ##
 Accept, O holy Father, almighty and eternal God, this unspotted host, which I, Thy unworthy servant, offer unto Thee, my living and true God, for my innumerable sins, offenses, and negligences, and for all here present: as also for all faithful Christians, both living and dead, that it may avail both me and them for salvation unto life everlasting. Amen.
 
+![alt text](assets/images/gifts.jpg)   
+
 ## Offering of the Chalice ##
 We offer unto Thee, O Lord, the chalice of salvation, beseeching Thy clemency, that it may ascend before Thy divine Majesty, as a sweet savor, for our salvation, and for that of the whole world. Amen.
 
-![alt text](assets/images/gifts.jpg)  
+ 
 
 ## The Consecration ##
 “For this is my Body.”  
