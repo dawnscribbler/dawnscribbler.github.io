@@ -21,7 +21,7 @@ We offer unto Thee, O Lord, the chalice of salvation, beseeching Thy clemency, t
 
 “For this is the chalice of my Blood of the new and eternal testament, the mystery of faith; which shall be shed for you and for many unto the remission of sins.”  
 
-![alt text](assets/images/BodyNBlood.jpg)  
+![alt text](assets/images/BodyBlood.jpg)  
 
 ## Domine, Non Sum Dignus ##
 Lord, I am not worthy that Thou shouldst enter under my roof; say but the word, and my soul shall be healed.  
@@ -31,3 +31,8 @@ The Body of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.
 
 The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.  
 ![alt text](assets/images/lambOfGod.jpg) 
+
+
+<br><br><br><br>
+[Read More about it](assets/images/lambOfGod.jpg) 
+
