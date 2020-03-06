@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Stations of the Cross
+title:  Father Mateo’s Mass of St. John
 permalink: /frmateo/
 ---
-
- **Father Mateo’s Mass of St. John**
 
 Now, I am going to let you in on a secret – the secret of my spiritual life. When I travel on the train, I say, ten, twenty ‘Masses of St. John’ – Masses in honor of the Blessed Trinity. There is no prayer like that. I have but three devotions: My Mass, my breviary, my rosary. The breviary is beautiful, but you cannot compare it with the Mass. There is no prayer like the Mass. As I travel, I offer my Mass on the altar of the holy Will of God, offering it in union with the thousands of priests saying Mass continuously, perpetually. I am tired, I cannot prepare conferences – I offer Mass instead. I said four or five Masses this morning. I do it the whole day. It unites my heart, my will with priests at the altar.
 
