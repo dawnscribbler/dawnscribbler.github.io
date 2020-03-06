@@ -34,5 +34,5 @@ The Blood of our Lord Jesus Christ preserve my soul unto life everlasting. Amen.
 
 
 <br><br><br><br>
-[Read More about it](/frmateo) 
+[Read More](/frmateo) 
 
