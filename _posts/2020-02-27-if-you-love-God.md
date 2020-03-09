@@ -22,3 +22,6 @@ There are times when we are set free from a very difficult situation we just rej
 The choice of life or death is simple. If you can understand that being saved is the love of God, then you have chosen life because you are not going to want to do things that go against the one that loves you. If you cannot see the saving work of God in your life, then you have chosen death because there is no motivation to do whatever God has commanded. 
 
 Acceptance is not verbal consent but action, and that action is to love actively.
+
+_For the Lord knows the way of the just,  
+but the way of the wicket will perish"_  
