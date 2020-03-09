@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "If any one wishes to come after me..."
+title: "come after me"
 comments: false
 description: "Feb 27th 2020 Mass Reading Reflection"
 keywords: "fasting, healing, Lent"
