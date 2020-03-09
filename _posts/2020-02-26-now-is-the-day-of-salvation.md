@@ -19,8 +19,8 @@ God has a time for everything. Now is the time to check whether we have a good h
 
 When we sin, we cannot offer anything to the Lord because we don't have anything pleasing to offer. If we repent, He will provide us with what we can use to offer Him. The only condition for forgiveness is that our repentance is heartfelt; with our whole heart and mind. Beware of having no piety apart from that seen by men. Beware of being only ceremonial without any real faith in God. 
 
-_My transgression, truly, I know them;
-My sin is always before me.
-Against you, you alone, have I sinned;
+_My transgression, truly, I know them;  
+My sin is always before me.  
+Against you, you alone, have I sinned;  
 what is evil in your sight, I have done._
 
