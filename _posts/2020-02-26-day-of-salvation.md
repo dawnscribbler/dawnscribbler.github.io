@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Now is the day of salvation"
+title: "day of salvation"
 comments: false
 description: "Feb 26th 2020 Mass Reading Reflection"
 keywords: "fasting, healing, Lent"
