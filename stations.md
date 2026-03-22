@@ -4,6 +4,15 @@ title: Stations of the Cross
 permalink: /stations/
 ---
 
+## [OPENING PRAYER](#OPENING) ##
+Kneeling before the altar, make an act of Contrition, and form the intention of gaining the indulgences, whether for yourself or for the souls in Purgatory. 
+
+Then say: 
+
+My Lord Jesus Christ, Thou hast made this journey to die for me with love unutterable, and I have so many times unworthily abandoned Thee; but now I love Thee with my whole heart, and because I love Thee, I repent sincerely for ever having offended Thee. Pardon me, my God, and permit me to accompany Thee on this journey. Thou goest to die for love of me; I wish also, my beloved Redeemer, to die for love of Thee. My Jesus, I will live and die always united to Thee.
+
+
+
 ## [FIRST STATION](#first-station) ##
 
 JESUS IS CONDEMNED TO DEATH  
@@ -312,15 +321,19 @@ Lord Jesus Crucified, have mercy on us.
 
 [Juxta crucem tecum stare, Et me tibi sociare, In planctu desidero\
 By the cross with you to stay, There with you to weep and pray, Is all I ask of you to give.
-](#JesusCrucified)
+](#CLOSING)
 <br> <br>
+
+## [CLOSING](#CLOSING) ##
 
 Our Father, Hail Mary, Glory be to the Father.
 
 ## [Prayer to Jesus Crucified](#JesusCrucified) ##
-![alt text](assets/images/station14.jpg)  
+![alt text](assets/images/Cristo_crucificado.jpg)  
 
 Behold, O kind and most sweet Jesus, I cast myself upon my knees in Thy sight, and with the most fervent desire of my soul, I pray and beseech Thee that Thou wouldst impress upon my heart lively sentiments of faith, hope, and charity, with true contrition for my sins and a firm purpose of amendment; while with deep affection and grief of soul, I ponder within myself and mentally contemplate Thy five wounds, having before my eyes the words which David the prophet put on Thy lips concerning Thee: “They have pierced my hands and my feet, they have numbered all my bones.”
+
+[+](#OPENING)
 
 <br><br><br><br><br><br>
 
