@@ -9,7 +9,7 @@ permalink: /stations/
 JESUS IS CONDEMNED TO DEATH  
 ![alt text](assets/images/station01.jpg)   
 
-V. We adore Thee, O Christ, and we praise Thee.
+V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
 Consider that Jesus, after having been scourged and crowned with thorns, was unjustly condemned by Pilate to die on the Cross.
@@ -21,10 +21,7 @@ Our Father, Hail Mary, Glory be to the Father.
 
 Lord Jesus Crucified, have mercy on us. 
 
-Stabat Mater dolorosa, Juxta crucem lacrymosa, Dum pendebat Filius.
-At the cross her station keeping; Stood the mournful Mother weeping; Close to Jesus to the last
-
-[Stabat Mater dolorosa, Juxta crucem lacrymosa, Dum pendebat Filius.
+[Stabat Mater dolorosa, Juxta crucem lacrymosa, Dum pendebat Filius.\
 At the cross her station keeping; Stood the mournful Mother weeping; Close to Jesus to the last](#second-station).
 <br> <br>
 
