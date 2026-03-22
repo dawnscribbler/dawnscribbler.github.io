@@ -9,7 +9,23 @@ permalink: /stations/
 JESUS IS CONDEMNED TO DEATH  
 ![alt text](assets/images/station01.jpg)   
 
-[O Jesus! so meek and uncomplaining, teach me resignation in trials.](#second-station).
+V. We adore Thee, O Christ, and we praise Thee.
+R. Because by Thy holy Cross, Thou hast redeemed the world.
+
+Consider that Jesus, after having been scourged and crowned with thorns, was unjustly condemned by Pilate to die on the Cross.
+My adorable Jesus, it was not Pilate. No, it was my sins that condemned Thee to die. I beseech Thee, by the merits of this sorrowful journey, to assist my soul in its journey towards eternity. 
+
+I love Thee, my beloved Jesus; I love Thee more than myself; I repent with my whole heart for having offended Thee. Never permit me to separate myself from Thee again. Grant that I may love Thee always; and then do with me what Thou wilt.
+
+Our Father, Hail Mary, Glory be to the Father.
+
+Lord Jesus Crucified, have mercy on us. 
+
+Stabat Mater dolorosa, Juxta crucem lacrymosa, Dum pendebat Filius.
+At the cross her station keeping; Stood the mournful Mother weeping; Close to Jesus to the last
+
+[Stabat Mater dolorosa, Juxta crucem lacrymosa, Dum pendebat Filius.
+At the cross her station keeping; Stood the mournful Mother weeping; Close to Jesus to the last](#second-station).
 <br> <br>
 
 ## [SECOND STATION](#second-station) ##
