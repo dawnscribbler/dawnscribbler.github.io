@@ -141,7 +141,7 @@ Our Father, Hail Mary, Glory be to the Father.
 Lord Jesus Crucified, have mercy on us.
 
 [Quis non posset contristari, Christi Matrem contemplari, Dolentem cum Filio?\
-Can the human heart refrain, From partaking in her pain, In that Mother’s pain untold?)
+Can the human heart refrain, From partaking in her pain, In that Mother’s pain untold?](#seventh-station)
 <br> <br>
 
 
