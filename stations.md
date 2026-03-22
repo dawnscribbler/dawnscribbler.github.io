@@ -4,7 +4,7 @@ title: Stations of the Cross
 permalink: /stations/
 ---
 
-## [OPENING PRAYER](#OPENING) ##
+## [OPENING PRAYER](#opening) ##
 Kneeling before the altar, make an act of Contrition, and form the intention of gaining the indulgences, whether for yourself or for the souls in Purgatory. 
 
 Then say: 
@@ -22,6 +22,7 @@ V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
 Consider that Jesus, after having been scourged and crowned with thorns, was unjustly condemned by Pilate to die on the Cross.
+
 My adorable Jesus, it was not Pilate. No, it was my sins that condemned Thee to die. I beseech Thee, by the merits of this sorrowful journey, to assist my soul in its journey towards eternity. 
 
 I love Thee, my beloved Jesus; I love Thee more than myself; I repent with my whole heart for having offended Thee. Never permit me to separate myself from Thee again. Grant that I may love Thee always; and then do with me what Thou wilt.
@@ -53,7 +54,7 @@ Our Father, Hail Mary, Glory be to the Father.
 Lord Jesus Crucified, have mercy on us.
 
 [Cujus animam gementem, Contristatam et dolentem, Per transivit gladius.\
-Through her heart, his sorrow sharing, All his bitter anguish bearing, Now at length the sword has passed ](#third-station).
+Through her heart, his sorrow sharing, All his bitter anguish bearing, Now at length the sword has passed. ](#third-station)
 <br> <br>
 
 ## [THIRD STATION](#third-station) ##
@@ -67,7 +68,7 @@ Consider this first fall of Jesus under His Cross. His flesh was torn by the sco
 
 My beloved Jesus, it is not the weight of the cross, but of my sins, which have made Thee suffer so much pain. Ah, by the merits of this first fall, deliver me from the misfortune of falling into mortal sin.
 
-I love Thee, O my Jesus, with my whole heart; I repent of having offended Thee. Never permit me to separate myself from Thee again. Grant that I may love Thee always; and then do with me what Thou wilt.
+I love Thee, O my Jesus, with my whole heart; I repent of having offended Thee. Never permit me to offend Thee again. Grant that I may love Thee always; and then do with me what Thou wilt.
 
 Our Father, Hail Mary, Glory be to the Father.
 
@@ -175,7 +176,7 @@ THE WOMEN OF JERUSALEM WEEP OVER JESUS
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider how those women wept with compassion at seeing Jesus in such a pitiable state, streaming with blood, as He walked along. But Jesus said to them: Weep not for Me, but for your children.
+Consider that those women wept with compassion at seeing Jesus in such a pitiable state, streaming with blood, as He walked along. But Jesus said to them: Weep not for Me, but for your children.
 
 My Jesus, laden with sorrows, I weep for the offences I have committed against Thee, because of the pains which they have deserved, and still more because of the displeasure they have caused Thee, who hast loved me so much. It is Thy love, more than the fear of hell, which causes me to weep for my sins. 
 
@@ -266,7 +267,7 @@ JESUS IS RAISED UPON THE CROSS AND DIES
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider how thy Jesus, after three hours' Agony on the Cross, consumed at length with anguish, abandons Himself to the weight of His body, bows His head, and dies.
+Consider how thy Jesus, after three hours' of Agony on the Cross, consumed at length with anguish, abandons Himself to the weight of His body, bows His head, and dies.
 
 O my dying Jesus, I kiss devoutly the Cross on which Thou didst die for love of me. I have merited by my sins to die a miserable death; but Thy death is my hope. Ah, by the merits of Thy death, give me grace to die, embracing Thy feet, and burning with love for Thee. I commit my soul into Thy hands. 
 
@@ -320,11 +321,11 @@ Our Father, Hail Mary, Glory be to the Father.
 Lord Jesus Crucified, have mercy on us.
 
 [Juxta crucem tecum stare, Et me tibi sociare, In planctu desidero\
-By the cross with you to stay, There with you to weep and pray, Is all I ask of you to give.
+By the cross with you to stay, There with you to weep and pray, Is all I ask of Thee to give.
 ](#CLOSING)
 <br> <br>
 
-## [CLOSING](#CLOSING) ##
+## [CLOSING](#closing) ##
 
 Our Father, Hail Mary, Glory be to the Father.
 
@@ -333,7 +334,7 @@ Our Father, Hail Mary, Glory be to the Father.
 
 Behold, O kind and most sweet Jesus, I cast myself upon my knees in Thy sight, and with the most fervent desire of my soul, I pray and beseech Thee that Thou wouldst impress upon my heart lively sentiments of faith, hope, and charity, with true contrition for my sins and a firm purpose of amendment; while with deep affection and grief of soul, I ponder within myself and mentally contemplate Thy five wounds, having before my eyes the words which David the prophet put on Thy lips concerning Thee: “They have pierced my hands and my feet, they have numbered all my bones.”
 
-[+](#OPENING)
+[+](#opening)
 
 <br><br><br><br><br><br>
 
