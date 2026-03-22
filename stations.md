@@ -322,7 +322,7 @@ Lord Jesus Crucified, have mercy on us.
 
 [Juxta crucem tecum stare, Et me tibi sociare, In planctu desidero\
 By the cross with you to stay, There with you to weep and pray, Is all I ask of Thee to give.
-](#CLOSING)
+](#closing)
 <br> <br>
 
 ## [CLOSING](#closing) ##
