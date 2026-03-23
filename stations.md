@@ -43,7 +43,7 @@ JESUS IS MADE TO CARRY HIS CROSS
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider that Jesus, in making this journey with the Cross on His shoulders thought of us, and offered to His Father, for us, the death He was about to undergo.
+Consider that Jesus in making this journey with the Cross on His shoulders thought of us and offered to His Father, for us, the death He was about to undergo.
 
 My most beloved Jesus, I embrace all the tribulations Thou hast destined for me until death. I beseech Thee, by the merits of the pain Thou didst suffer in carrying Thy Cross, to give me the necessary help to carry mine with perfect patience and resignation. 
 
@@ -54,7 +54,7 @@ Our Father, Hail Mary, Glory be to the Father.
 Lord Jesus Crucified, have mercy on us.
 
 [Cujus animam gementem, Contristatam et dolentem, Per transivit gladius.\
-Through her heart, his sorrow sharing, All his bitter anguish bearing, Now at length the sword has passed. ](#third-station)
+Through her heart, his sorrow sharing, All his bitter anguish bearing, Now at length the sword has passed.](#third-station)
 <br> <br>
 
 ## [THIRD STATION](#third-station) ##
@@ -86,7 +86,7 @@ JESUS MEETS HIS SORROWFUL MOTHER
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider the meeting of the Son and the Mother, which took place on this journey. Jesus and Mary looked at each other, and their looks became as so many arrows to wound those hearts which loved each other so tenderly.
+Consider the meeting of the Son and the Mother which took place on this journey. Jesus and Mary looked at each other, and their looks became as so many arrows to wound those hearts which loved each other so tenderly.
 
 My most loving Jesus, by the sorrow Thou didst experience in this meeting, grant me the grace of a truly devoted love for Thy most holy Mother. And thou, my Queen, who wast overwhelmed with sorrow, obtain for me by thy intercession a continual and tender remembrance of the Passion of thy Son. 
 
@@ -109,7 +109,7 @@ SIMON THE CYRENIAN HELPS JESUS TO CARRY HIS CROSS
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider that the Jews, seeing that at each step Jesus from weakness was on the point of expiring, and fearing that He would die on the way, when they wished Him to die the ignominious death of the Cross, constrained Simon the Cyrenian to carry the Cross behind our Lord.
+Consider that the Jews seeing that at each step Jesus from weakness was on the point of expiring and fearing that He would die on the way when they wished Him to die the ignominious death of the Cross constrained Simon the Cyrenian to carry the Cross behind our Lord.
 
 My most sweet Jesus, I will not refuse the Cross, as the Cyrenian did; I accept it; I embrace it. I accept in particular the death Thou hast destined for me; with all the pains that may accompany it; I unite it to Thy death, I offer it to Thee. Thou hast died for love of me; I will die for love of Thee, and to please Thee. Help me by Thy grace. 
 
@@ -131,7 +131,7 @@ VERONICA WIPES THE FACE OF JESUS
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider how the holy woman named Veronica, seeing Jesus so afflicted, and His face bathed in sweat and blood, presented Him with a towel, with which He wiped His adorable face, leaving on it the impression of His holy countenance.
+Consider that the holy woman named Veronica seeing Jesus so afflicted and His face bathed in sweat and blood presented Him with a towel with which He wiped His adorable face leaving on it the impression of His holy countenance.
 
 My most beloved Jesus, Thy face was beautiful before, but in this journey it has lost all its beauty, and wounds and blood have disfigured it. Alas! my soul also was once beautiful, when it received Thy grace in Baptism; but I have disfigured it since by my sins; Thou alone, my Redeemer, canst restore it to its former beauty. Do this by Thy Passion, O Jesus. 
 
@@ -176,7 +176,7 @@ THE WOMEN OF JERUSALEM WEEP OVER JESUS
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider that those women wept with compassion at seeing Jesus in such a pitiable state, streaming with blood, as He walked along. But Jesus said to them: Weep not for Me, but for your children.
+Consider that those women wept with compassion at seeing Jesus in such a pitiable state, streaming with blood as He walked along. But Jesus said to them: Weep not for Me, but for your children.
 
 My Jesus, laden with sorrows, I weep for the offences I have committed against Thee, because of the pains which they have deserved, and still more because of the displeasure they have caused Thee, who hast loved me so much. It is Thy love, more than the fear of hell, which causes me to weep for my sins. 
 
@@ -232,7 +232,7 @@ Our Father, Hail Mary, Glory be to the Father.
 Lord Jesus Crucified, have mercy on us.
 
 [Fac, ut ardeat cor meum, In amando Christum Deum, Ut sibi complaceam.\
-Make me feel as you hast felt; Make my soul to glow and melt; With the love of Christ, my Lord.
+Make me feel as Thou hast felt; Make my soul to glow and melt; With the love of Christ, my Lord.
 ](#eleventh-station)
 <br> <br>
 
@@ -244,7 +244,7 @@ JESUS IS NAILED TO THE CROSS
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider that Jesus, after being thrown on the cross, extended His hands, and offered to His eternal Father the sacrifice of His life for our salvation. These barbarians fastened Him with nails; and then, raising the cross, left Him to die with anguish on this infamous gibbet. 
+Consider that Jesus after being thrown on the cross extended His hands and offered to His eternal Father the sacrifice of His life for our salvation. These barbarians fastened Him with nails and then, raising the cross, left Him to die with anguish on this infamous gibbet. 
 
 My Jesus! loaded with contempt, nail my heart to Thy feet, that it may ever remain there, to love Thee, and never quit Thee again. 
 
@@ -267,7 +267,7 @@ JESUS IS RAISED UPON THE CROSS AND DIES
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider how thy Jesus, after three hours' of Agony on the Cross, consumed at length with anguish, abandons Himself to the weight of His body, bows His head, and dies.
+Consider how thy Jesus, after three hours of Agony on the Cross, consumed at length with anguish, abandons Himself to the weight of His body, bows His head, and dies.
 
 O my dying Jesus, I kiss devoutly the Cross on which Thou didst die for love of me. I have merited by my sins to die a miserable death; but Thy death is my hope. Ah, by the merits of Thy death, give me grace to die, embracing Thy feet, and burning with love for Thee. I commit my soul into Thy hands. 
 
@@ -277,7 +277,7 @@ Our Father, Hail Mary, Glory be to the Father.
 
 Lord Jesus Crucified, have mercy on us.
 
-[Tui nati vulnerati, Tam dignati pro me pati Poenas mecum divide.\
+[Tui nati vulnerati, Tam dignati pro me pati, Poenas mecum divide.\
 Let me share with thee His pain, Who for all our sins was slain. Who for me in torments died.](#thirteenth-station)
 <br> <br>
  
@@ -290,7 +290,7 @@ JESUS IS TAKEN DOWN FROM THE CROSS AND PLACED IN THE ARMS OF HIS MOTHER
 V. We adore Thee, O Christ, and we praise Thee.<br>
 R. Because by Thy holy Cross, Thou hast redeemed the world.
 
-Consider that, our Lord having expired, two of His disciples, Joseph and Nicodemus, took Him down from the cross, and placed Him in the arms of His afflicted Mother, who received Him with unutterable tenderness, and pressed Him to her bosom.
+Consider that our Lord having expired, two of His disciples, Joseph and Nicodemus, took Him down from the cross and placed Him in the arms of His afflicted Mother, who received Him with unutterable tenderness and pressed Him to her bosom.
 
 O Mother of sorrow, for the love of this Son, accept me for thy servant, and pray to Him for me. And Thou, my Redeemer, since Thou hast died for me, permit me to love Thee; for I wish but Thee, my Jesus, and I repent of ever having offended Thee. Never permit me to offend Thee again. Grant that I may love Thee always; and then do with me what Thou wilt.
 
