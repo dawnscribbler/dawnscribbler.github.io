@@ -327,32 +327,32 @@ By the cross with you to stay, There with you to weep and pray, Is all I ask of 
 
 Virgo virginum praeclara,
 mihi iam non sis amara,
-fac me tecum plangere.\
+fac me tecum plangere.
 
 
 Fac, ut portem Christi mortem,
 passionis fac consortem,
-et plagas recolere.\
+et plagas recolere.
 
 
 Fac me plagis vulnerari,
 fac me Cruce inebriari,
-et cruore Filii.\
+et cruore Filii.
 
 
 Flammis ne urar succensus,
 per te, Virgo, sim defensus
-in die iudicii. \
+in die iudicii. 
 
 
 Christe, cum sit hinc exire,
 da per Matrem me venire
-ad palmam victoriae. \
+ad palmam victoriae. 
 
 
 Quando corpus morietur,
 fac, ut animae donetur
-paradisi gloria. Amen. \
+paradisi gloria. Amen. 
 <br> 
 
 ## [CLOSING](#closing) ##
