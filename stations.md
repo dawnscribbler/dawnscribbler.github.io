@@ -96,7 +96,8 @@ Our Father, Hail Mary, Glory be to the Father.
 
 Lord Jesus Crucified, have mercy on us.
 
-[Quae moerebat, et dolebat, Pia Mater dum videbat Nati poenas inclyti.\
+[Quae maerebat, et dolebat, Pia Mater dum videbat Nati poenas inclyti.\
+She was grieving and sorrowing, While the pious Mother saw the punishment of her illustrious Son,\
 Christ above in torment hangs, She beneath beholds the pangs, Of her dying, glorious Son.](#fifth-station)
 <br> <br>
 
@@ -329,30 +330,52 @@ Virgo virginum praeclara,
 mihi iam non sis amara,
 fac me tecum plangere.
 
+Virgin of virgins, excellent,
+Don't be bitter to me anymore.
+Make me weep with you.
 
 Fac, ut portem Christi mortem,
 passionis fac consortem,
 et plagas recolere.
+
+Make me carry the death of Christ,
+in His passion, make me a partner
+and remember His wounds.
 
 
 Fac me plagis vulnerari,
 fac me Cruce inebriari,
 et cruore Filii.
 
+Make me wounded with His wounds,
+Make me drunk with the cross
+and by the blood of your Son.
+
 
 Flammis ne urar succensus,
 per te, Virgo, sim defensus
 in die iudicii. 
 
+Lest I be scorched by flames,
+by you, Virgin, may I be defended
+on the day of judgment.
 
 Christe, cum sit hinc exire,
 da per Matrem me venire
 ad palmam victoriae. 
 
+Christ, since it is time to get out of here,
+Let me come through Thy Mother
+to the palm of victory.
 
 Quando corpus morietur,
 fac, ut animae donetur
 paradisi gloria. Amen. 
+
+When the body dies,
+Make it so that it is given to my soul
+The glory of paradise. Amen.
+
 <br> 
 
 ## [CLOSING](#closing) ##
