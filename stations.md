@@ -74,7 +74,7 @@ Our Father, Hail Mary, Glory be to the Father.
 
 Lord Jesus Crucified, have mercy on us.
 
-[O quam tristis et afflicta; Fruit illa benedicta; Mater Unigeniti!\
+[O quam tristis et afflicta; Fuit illa benedicta; Mater Unigeniti!\
 O, how sad and sore distressed; Was that Mother highly blessed; Of the sole Begotten One!](#fourth-station)
 <br> <br>
 
